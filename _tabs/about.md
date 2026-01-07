@@ -1,6 +1,7 @@
 ---
 # 這一區塊是設定，千萬不要動
 layout: page
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
@@ -24,16 +25,19 @@ order: 4
 * **⚡ 專業燈光工程驗收**：第三方工程監管與器材測試。
 * **🎛️ 系統編程與設計**：GrandMA2 / Avolites 專業編程服務。
 * **工程顧問與驗收**
-* **政府MR工程（註冊電業承辦商）**
+* **政府 MR 工程（註冊電業承辦商）**
 * **專門舞台音響系統**
-* **CCTV系統**
-* **LED Wall系統**
+* **CCTV 系統**
+* **LED Wall 系統**
 * **門禁系統**
+
 ### 聯絡我們
-* **Tel: 3708 9368**
-* **Fax: 3108 4330**
-* **Email:arthas@trigosystem.com** 
-* **Location:Unit 1601, 16/F,Sunbeam Plaza,1155 Canton Road, Kowloon,Hong Kong**
+
+* **Tel:** 3708 9368
+* **Fax:** 3108 4330
+* **Email:** arthas@trigosystem.com
+* **Location:** Unit 1601, 16/F, Sunbeam Plaza, 1155 Canton Road, Kowloon, Hong Kong
+
 ---
 
 ### 🚀 準備好升級您的系統了嗎？
@@ -43,5 +47,7 @@ order: 4
 [👉 **點擊填寫「工程需求諮詢單」**](/tabs/contact/)
 
 我們期待與您合作，讓光子與邏輯完美運作。
+
 ---
-*Trigo System Engineering - Since 2026*---
+
+*Trigo System Engineering - Since 2026*

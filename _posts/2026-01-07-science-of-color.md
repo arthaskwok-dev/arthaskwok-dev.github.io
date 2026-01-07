@@ -3,7 +3,7 @@ title: 第二章：色彩科學與感知 (The Science of Color)
 date: 2026-01-07 10:00:00 +0800
 categories: [Trigo Book, Color Lab]
 tags: [color, cie, spectrum, r15]
---
+---
 
 ## 引言：RGB 的騙局
 

@@ -108,7 +108,6 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
- comments:
   active: giscus
   # (中間省略...)
   giscus:

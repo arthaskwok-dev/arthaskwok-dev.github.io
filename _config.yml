@@ -108,6 +108,19 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
+ comments:
+  active: giscus
+  # (中間省略...)
+  giscus:
+    repo: arthaskwok-dev/arthaskwok-dev.github.io
+    repo_id: 'R_kgDOQ0ePCQ'        # 這行你已經有了 (正確)
+    category: General              # 這行請填 General
+    category_id: 'DIC_kwDOQ0ePCc4C0q-i'    # ⚠️ 這裡填你剛剛在網頁上新生成的 DIC_ 開頭的那串
+    mapping: title
+    strict: 1
+    reactions_enabled: 1
+    input_position: bottom
+    lang: zh-TW
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]
   # The provider options are as follows:

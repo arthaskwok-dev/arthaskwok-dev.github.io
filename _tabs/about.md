@@ -1,5 +1,4 @@
 ---
-# 這一區塊是設定，千萬不要動
 layout: page
 title: About
 icon: fas fa-info-circle
@@ -44,7 +43,7 @@ order: 5
 
 工程問題不能等。Trigo 團隊隨時準備提供協助。
 
-[👉 **點擊填寫「工程需求諮詢單」**](/tabs/contact/)
+[👉 **點擊填寫「工程需求諮詢單」**](/contact/)
 
 我們期待與您合作，讓光子與邏輯完美運作。
 

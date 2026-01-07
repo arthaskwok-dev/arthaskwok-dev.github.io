@@ -10,7 +10,7 @@ image:
 
 ## 專案背景
 
-**地點：** 蘇淅公學禮堂 (Suhe Public School Hall)
+**地點：** 蘇淅公學禮堂 (Kiangsu-Chekiang College Hall)
 **活動：** 大灣區音樂節 (GBA Music Festival)
 
 學校禮堂的演出，往往受限於場地高度與電力供應。但在這個案子中，Trigo System 的目標是打破「學校表演」的廉價感，創造出專業演唱會級別的沈浸式氛圍。

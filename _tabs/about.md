@@ -33,7 +33,7 @@ order: 4
 * **Tel: 37089368**
 * **Fax: 31084330**
 * **Email:arthas@trigosystem.com:** 
-* **Location:Unit 1601, 16/F,Sunbeam Plaza,1155 Canton Road, Kowloon,** Hong Kong
+* **Location:Unit 1601, 16/F,Sunbeam Plaza,1155 Canton Road, Kowloon,Hong Kong**
 
 ---
 *Trigo System Engineering - Since 2026*---

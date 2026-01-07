@@ -34,6 +34,14 @@ order: 4
 * **Fax: 3108 4330**
 * **Email:arthas@trigosystem.com** 
 * **Location:Unit 1601, 16/F,Sunbeam Plaza,1155 Canton Road, Kowloon,Hong Kong**
+---
 
+### 🚀 準備好升級您的系統了嗎？
+
+工程問題不能等。Trigo 團隊隨時準備提供協助。
+
+[👉 **點擊填寫「工程需求諮詢單」**](/tabs/contact/)
+
+我們期待與您合作，讓光子與邏輯完美運作。
 ---
 *Trigo System Engineering - Since 2026*---

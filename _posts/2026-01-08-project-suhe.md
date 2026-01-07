@@ -1,6 +1,6 @@
 ---
 title: 案例展示：蘇淅公學禮堂 x 大灣區音樂節
-date: 2026-01-08 10:00:00 +0800
+date: 2026-01-07 10:00:00 +0800
 categories: [Portfolio, School Hall]
 tags: [stage lighting, led wall, live performance, blue atmosphere]
 image:

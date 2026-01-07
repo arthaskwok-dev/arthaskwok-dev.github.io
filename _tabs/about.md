@@ -30,8 +30,9 @@ order: 4
 * **LED Wall系統**
 * **門禁系統**
 ### 聯絡我們
-
-* **Email:arthas@trigosystem.com:** (這裡填你的 email)
+* **Tel: 37089368**
+* **Fax: 31084330**
+* **Email:arthas@trigosystem.com:** 
 * **Location:Unit 1601, 16/F,Sunbeam Plaza,1155 Canton Road, Kowloon,** Hong Kong
 
 ---

@@ -3,6 +3,7 @@ title: 第一章：物理與謊言 (The Physics & The Lies)
 date: 2026-01-06 14:00:00 +0800
 categories: [Trigo Book, Engineering]
 tags: [pwm, dmx, safety, lighting]
+comments: true   <-- 加入這一行，強制開啟！
 ---
 
 ## 引言：90% 的工程問題，其實都是物理問題

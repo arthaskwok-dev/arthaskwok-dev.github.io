@@ -1,12 +1,14 @@
 ---
 title: 光學與邏輯的交匯點：歡迎來到 Trigo System
-date: 2026-01-01 00:00:00 +0800
-categories: [About, Welcome]
-tags: [engineering logic, rhine, professional audio visual]
+# ... (中間省略)
 pin: true
 image:
   path: /assets/img/rhine_welcome.jpg
-  alt: Rhine Professional Sounds and Lights 舞台展示
+  lqip: data:image/webp;base64,.... (如果有這行就留著)
+  alt: Rhine 舞台展示
+  # 👇 加入下面這行設定！
+  width: 1200   
+  height: 630   
 ---
 
 ## 「很多工程問題，其實都是物理問題。」

@@ -35,8 +35,8 @@ url: "https://www.trigosystem.com"
 social:
   name: Trigo System Engineering Limited
   email: arthas@trigosystem.com
-  links:
-    - trigosys?igsh=OGdxY2tzc3ltNGc2&utm_source=qr
+  instagram: trigosys
+  rss: false
     # - https://github.com/arthaskwok-dev  <-- 已隱藏
 
 # -----------------------------------------------------------

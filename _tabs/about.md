@@ -37,7 +37,7 @@ order: 5
 * **Fax:** 3108 4330
 * **Email:** arthas@trigosystem.com
 * **Location:** Unit 1601, 16/F, Sunbeam Plaza, 1155 Canton Road, Kowloon, Hong Kong
-
+[👉 Follow Trigo System on Instagram](https://www.instagram.com/trigosys){: .btn .btn--primary }
 ---
 
 ### 🚀 準備好升級您的系統了嗎？

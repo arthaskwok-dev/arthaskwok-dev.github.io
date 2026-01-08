@@ -36,7 +36,7 @@ social:
   name: Trigo System Engineering Limited
   email: arthas@trigosystem.com
   links:
-    - https://www.instagram.com/trigosys?igsh=OGdxY2tzc3ltNGc2&utm_source=qr
+    - trigosys
     # - https://github.com/arthaskwok-dev  <-- 已隱藏
 
 # -----------------------------------------------------------
@@ -80,7 +80,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar
-avatar: /assets/avatar.png
+avatar: /assets/img/avatar.png
 
 # The URL of the site-wide social preview image
 social_preview_image:

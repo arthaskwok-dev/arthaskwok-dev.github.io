@@ -21,33 +21,26 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 url: "https://www.trigosystem.com"
-
-# -----------------------------------------------------------
-# Social Settings (已修改：只保留 IG 和 Email)
-# -----------------------------------------------------------
 # -----------------------------------------------------------------------------
-# Contact (側邊欄 - 這裡只填 ID，不要網址！)
+# Contact (側邊欄設定) - 只填 ID
 # -----------------------------------------------------------------------------
 contact:
+  # 這裡只填 Email，IG 填帳號 (trigosys)，rss 設為 false (隱藏 Wifi 圖示)
   email: arthas@trigosystem.com
   instagram: trigosys
   rss: false
+  # twitter: 
+  # github: 
 
-social:
- # -----------------------------------------------------------------------------
-# Social (頁尾 - 填完整網址)
+# -----------------------------------------------------------------------------
+# Social (頁尾設定) - 必須填完整網址
 # -----------------------------------------------------------------------------
 social:
   name: Trigo System Engineering Limited
   email: arthas@trigosystem.com
   links:
-    # 這裡必須有 https://
+    # 👇 注意：下面只能有這一行連結，千萬不要多加 "-" 符號
     - https://www.instagram.com/trigosys
-    # 下面不要留任何單獨的 "-" 符號，不用的就整行刪掉
-    # - https://github.com/arthaskwok-dev  <-- 已隱藏
-
-# -----------------------------------------------------------
-
 # Site Verification Settings
 webmaster_verifications:
   google:

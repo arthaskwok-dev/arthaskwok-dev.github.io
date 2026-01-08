@@ -5,7 +5,7 @@ categories: [About, Welcome]
 tags: [engineering logic, rhine, professional audio visual]
 pin: true
 image:
-  path: /assets/img/rhine-welcome.jpg
+  path: /assets/img/rhine_welcome.jpg
   alt: Rhine Professional Sounds and Lights 舞台展示
 ---
 
@@ -17,7 +17,7 @@ image:
 
 ### 🛡️ Rhine：我們的專業承諾
 
-![Rhine Professional Sounds and Lights 舞台展示](/assets/img/rhine-welcome.jpg)
+![Rhine Professional Sounds and Lights 舞台展示](/assets/img/rhine_welcome.jpg)
 
 如上圖所示，**Rhine Professional Sounds and Lights** 是我們引以為傲的自有品牌。它代表了我們對品質的最高追求——無論是極致的光束控制、無頻閃的 LED 技術，還是高保真的音響系統，Rhine 都是我們工程理念的最佳實踐。
 

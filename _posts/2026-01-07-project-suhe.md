@@ -4,7 +4,7 @@ date: 2026-01-07 10:00:00 +0800
 categories: [Portfolio, Stage Lighting]
 tags: [System Design, Color Theory, School Hall, Event Production]
 image:
-  path: /assets/img/suhe-concert.jpg
+  path: /assets/img/suhe_concert.jpg
   alt: 蘇淅公學禮堂演出現場
 ---
 

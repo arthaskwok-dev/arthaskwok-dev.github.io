@@ -26,11 +26,14 @@ social:
 
 # 其他核心設定 (保持原樣以維持綠燈)
 webmaster_verifications:
-  google:"dyaMH99rcbGFaZhUjj2gZzPzA7sJtplBtc4F80qm9Pw" 
+  # 4. Google 驗證 (已填入你的密碼)
+webmaster_verifications:
+  google: "dyaMH99rcbGFaZhUjj2gZzPzA7sJtplBtc4F80qm9Pw"
   bing:
-analytics:
-  google:
-    id:
+  alexa:
+  yandex:
+  baidu:
+  facebook:
 theme_mode: light
 cdn:
 avatar: /assets/avatar.png

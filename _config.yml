@@ -1,38 +1,40 @@
-# ---------------------------------------
-# Trigo System Engineering - Config File
-# ---------------------------------------
-
+# The Site Configuration
 theme: jekyll-theme-chirpy
 lang: en
 timezone: Asia/Hong_Kong
 
-# 網站基本資料
+# 網站資訊
 title: Trigo System Engineering Limited
 tagline: Light & Logic
 description: 香港專業舞台燈光音響工程與系統設計
 url: "https://www.trigosystem.com"
 
-# 🛑 這裡控制左下角的圖示 (側邊欄)
+# -----------------------------------------------------------
+# 🛑 側邊欄 (Sidebar) - 徹底留空
+# -----------------------------------------------------------
+# 我們故意留空，這樣它就不會嘗試顯示它看不懂的 IG，也不會報錯
 contact:
-  # 只留 IG，其他全部刪除，這樣 Email 和 RSS 就會強制消失
-  instagram: trigosys
 
-# 🛑 這裡控制頁尾的連結 (Footer)
+# -----------------------------------------------------------
+# 🛑 頁尾 (Footer) - 只留 IG
+# -----------------------------------------------------------
 social:
   name: Trigo System Engineering Limited
-  email: arthas@trigosystem.com
+  # 注意：我把這裡的 email 也刪了，確保信封圖示 100% 消失
   links:
     - https://www.instagram.com/trigosys
 
-# 系統核心設定 (請勿更動，確保綠燈)
+# 其他核心設定 (保持原樣以維持綠燈)
+webmaster_verifications:
+  google:
+  bing:
+analytics:
+  google:
+    id:
 theme_mode: light
 cdn:
 avatar: /assets/avatar.png
 toc: true
-paginate: 10
-baseurl: ""
-
-# 評論系統 (先保留，避免報錯)
 comments:
   active: giscus
   giscus:
@@ -45,19 +47,26 @@ comments:
     reactions_enabled: 1
     input_position: bottom
     lang: zh-TW
-
-# 必要的編譯設定
+assets:
+  self_host:
+    enabled:
+    env:
+pwa:
+  enabled: false
+  cache:
+    enabled: true
+    deny_paths:
+paginate: 10
+baseurl: ""
 kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     block:
       line_numbers: true
-
 collections:
   tabs:
     output: true
     sort_by: order
-
 defaults:
   - scope:
       path: ""
@@ -77,10 +86,8 @@ defaults:
     values:
       layout: page
       permalink: /:title/
-
 sass:
   style: compressed
-
 exclude:
   - "*.gem"
   - "*.gemspec"
@@ -88,7 +95,6 @@ exclude:
   - README.md
   - LICENSE
   - node_modules
-
 jekyll-archives:
   enabled: [categories, tags]
   layouts:

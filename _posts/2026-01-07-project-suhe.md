@@ -6,7 +6,6 @@ tags: [stage lighting, led wall, blue atmosphere]
 image:
   path: /assets/img/suhe-concert.jpg
   alt: 蘇淅公學禮堂演出現場
-pin: true     <-- 加在這裡！(記得冒號後面有空格)
 ---
 
 ## 專案背景

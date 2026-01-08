@@ -1,43 +1,38 @@
-# The Site Configuration
+# ---------------------------------------
+# Trigo System Engineering - Config File
+# ---------------------------------------
+
 theme: jekyll-theme-chirpy
 lang: en
 timezone: Asia/Hong_Kong
 
-# SEO Settings
+# 網站基本資料
 title: Trigo System Engineering Limited
 tagline: Light & Logic
-description: >-
-  香港專業舞台燈光音響工程與系統設計
+description: 香港專業舞台燈光音響工程與系統設計
 url: "https://www.trigosystem.com"
 
-# -----------------------------------------------------------
-# 【側邊欄設定】只留 IG (Email已刪除)
-# -----------------------------------------------------------
+# 🛑 這裡控制左下角的圖示 (側邊欄)
 contact:
+  # 只留 IG，其他全部刪除，這樣 Email 和 RSS 就會強制消失
   instagram: trigosys
-  # 這裡什麼都不要加，沒有 rss，沒有 email
 
-# -----------------------------------------------------------
-# 【頁尾設定】
-# -----------------------------------------------------------
+# 🛑 這裡控制頁尾的連結 (Footer)
 social:
   name: Trigo System Engineering Limited
   email: arthas@trigosystem.com
   links:
     - https://www.instagram.com/trigosys
 
-# 其他必要設定 (保持預設，確保網站運作)
-webmaster_verifications:
-  google:
-  bing:
-analytics:
-  google:
-    id:
-theme_mode: # [light | dark]
+# 系統核心設定 (請勿更動，確保綠燈)
+theme_mode: light
 cdn:
 avatar: /assets/avatar.png
-social_preview_image:
 toc: true
+paginate: 10
+baseurl: ""
+
+# 評論系統 (先保留，避免報錯)
 comments:
   active: giscus
   giscus:
@@ -50,31 +45,19 @@ comments:
     reactions_enabled: 1
     input_position: bottom
     lang: zh-TW
-assets:
-  self_host:
-    enabled:
-    env:
-pwa:
-  enabled: false
-  cache:
-    enabled: true
-    deny_paths:
-paginate: 10
-baseurl: ""
+
+# 必要的編譯設定
 kramdown:
-  footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
   syntax_highlighter_opts:
-    css_class: highlight
-    span:
-      line_numbers: false
     block:
       line_numbers: true
-      start_line: 1
+
 collections:
   tabs:
     output: true
     sort_by: order
+
 defaults:
   - scope:
       path: ""
@@ -94,26 +77,18 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+
 sass:
   style: compressed
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  profile: false
-  blanklines: false
-  ignore:
-    envs: [development]
+
 exclude:
   - "*.gem"
   - "*.gemspec"
   - docs
-  - tools
   - README.md
   - LICENSE
-  - purgecss.js
-  - "*.config.js"
-  - "package*.json"
+  - node_modules
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:

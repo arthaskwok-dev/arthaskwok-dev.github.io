@@ -1,44 +1,39 @@
 # The Site Configuration
-
-# Import the theme
 theme: jekyll-theme-chirpy
-
-# The language of the webpage
 lang: en
-
-# Change to your timezone
 timezone: Asia/Hong_Kong
 
 # jekyll-seo-tag settings
-# ↓ --------------------------
-
 title: Trigo System Engineering Limited
-
 tagline: Light & Logic
-
 description: >-
   香港專業舞台燈光音響工程與系統設計
-
-# Fill in the protocol & hostname for your site.
 url: "https://www.trigosystem.com"
 
-# -----------------------------------------------------------------------------
-# Contact (側邊欄設定)
-# -----------------------------------------------------------------------------
+# -----------------------------------------------------------
+# 關鍵修正 1：徹底關閉 RSS (必須放在最外層)
+# -----------------------------------------------------------
+rss: false
+
+# -----------------------------------------------------------
+# 關鍵修正 2：側邊欄 Contact (確保縮排正確)
+# -----------------------------------------------------------
 contact:
   email: arthas@trigosystem.com
   instagram: trigosys
-  
-# -----------------------------------------------------------------------------
-# Social (頁尾設定)
-# -----------------------------------------------------------------------------
+  # twitter:
+  # github:
+
+# -----------------------------------------------------------
+# 關鍵修正 3：頁尾 Social (完整網址)
+# -----------------------------------------------------------
 social:
   name: Trigo System Engineering Limited
   email: arthas@trigosystem.com
   links:
     - https://www.instagram.com/trigosys
 
-# Site Verification Settings
+# Site Verification
 webmaster_verifications:
   google:
   bing:
@@ -47,10 +42,7 @@ webmaster_verifications:
   baidu:
   facebook:
 
-# ↑ --------------------------
-# The end of `jekyll-seo-tag` settings
-
-# Web Analytics Settings
+# Analytics
 analytics:
   google:
     id:
@@ -67,31 +59,15 @@ analytics:
   fathom:
     id:
 
-# Page views settings
-pageviews:
-  provider:
-
+# System Settings
 theme_mode: # [light | dark]
-
-# The CDN endpoint for media resources.
 cdn:
-
-# the avatar on sidebar
 avatar: /assets/avatar.png
-
-# The URL of the site-wide social preview image
 social_preview_image:
-
-# boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
   active: giscus
-  disqus:
-    shortname:
-  utterances:
-    repo:
-    issue_term:
   giscus:
     repo: arthaskwok-dev/arthaskwok-dev.github.io
     repo_id: 'R_kgDOQ0ePCQ'
@@ -102,8 +78,7 @@ comments:
     reactions_enabled: 1
     input_position: bottom
     lang: zh-TW
-    
-# Self-hosted static assets
+
 assets:
   self_host:
     enabled:
@@ -116,12 +91,9 @@ pwa:
     deny_paths:
 
 paginate: 10
-
-# The base URL of your site
 baseurl: ""
 
-# ------------ The following options are not recommended to be modified ------------------
-
+# Jekyll Core Settings (Do not touch)
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge

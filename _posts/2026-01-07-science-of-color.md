@@ -1,12 +1,8 @@
 ---
-title: 案例展示：蘇淅公學禮堂 x 大灣區音樂節
+title: 第二章：色彩科學與感知 (The Science of Color)
 date: 2026-01-07 10:00:00 +0800
-categories: [Portfolio, School Hall]
-tags: [stage lighting, led wall, blue atmosphere]
-image:
-  path: /assets/img/suhe-concert.jpg
-  alt: 蘇淅公學禮堂演出現場
-pin: true     <-- 加在這裡！(記得冒號後面有空格)
+categories: [Trigo Book, Color Lab]
+tags: [color, cie, spectrum, r15]
 ---
 
 ## 引言：RGB 的騙局

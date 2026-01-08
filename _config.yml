@@ -12,35 +12,34 @@ timezone: Asia/Hong_Kong
 # jekyll-seo-tag settings
 # ↓ --------------------------
 
-title: Trigo System Engineering Limited # the main title
+title: Trigo System Engineering Limited
 
-tagline: Light & Logic # it will display as the subtitle
+tagline: Light & Logic
 
-description: >- # used by seo meta and the atom feed
+description: >-
   香港專業舞台燈光音響工程與系統設計
 
 # Fill in the protocol & hostname for your site.
 url: "https://www.trigosystem.com"
-# -----------------------------------------------------------------------------
-# Contact (側邊欄設定) - 只填 ID
-# -----------------------------------------------------------------------------
-contact:
-  # 這裡只填 Email，IG 填帳號 (trigosys)，rss 設為 false (隱藏 Wifi 圖示)
-  email: arthas@trigosystem.com
-  instagram: trigosys
-  rss: false
-  # twitter: 
-  # github: 
 
 # -----------------------------------------------------------------------------
-# Social (頁尾設定) - 必須填完整網址
+# Contact (側邊欄設定)
+# -----------------------------------------------------------------------------
+contact:
+  email: arthas@trigosystem.com
+  instagram: trigosys
+  # rss: false 
+  # (注意: rss 設定不一定在所有版本生效，若無效我們之後再處理，先保證不報錯)
+
+# -----------------------------------------------------------------------------
+# Social (頁尾設定)
 # -----------------------------------------------------------------------------
 social:
   name: Trigo System Engineering Limited
   email: arthas@trigosystem.com
   links:
-    # 👇 注意：下面只能有這一行連結，千萬不要多加 "-" 符號
     - https://www.instagram.com/trigosys
+
 # Site Verification Settings
 webmaster_verifications:
   google:

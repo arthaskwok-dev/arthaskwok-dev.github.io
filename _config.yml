@@ -25,12 +25,13 @@ url: "https://www.trigosystem.com"
 # -----------------------------------------------------------
 # Social Settings (已修改：只保留 IG 和 Email)
 # -----------------------------------------------------------
-
-# github:    <-- 已隱藏
-#   username: github_username
-
-# twitter:   <-- 已隱藏 (X)
-#   username: twitter_username
+# -----------------------------------------------------------------------------
+# Contact (側邊欄 - 這裡只填 ID，不要網址！)
+# -----------------------------------------------------------------------------
+contact:
+  email: arthas@trigosystem.com
+  instagram: trigosys
+  rss: false
 
 social:
  # -----------------------------------------------------------------------------
@@ -43,7 +44,6 @@ social:
     # 這裡必須有 https://
     - https://www.instagram.com/trigosys
     # 下面不要留任何單獨的 "-" 符號，不用的就整行刪掉
-  rss: false
     # - https://github.com/arthaskwok-dev  <-- 已隱藏
 
 # -----------------------------------------------------------

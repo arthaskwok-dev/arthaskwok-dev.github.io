@@ -3,7 +3,7 @@ theme: jekyll-theme-chirpy
 lang: en
 timezone: Asia/Hong_Kong
 
-# jekyll-seo-tag settings
+# SEO Settings
 title: Trigo System Engineering Limited
 tagline: Light & Logic
 description: >-
@@ -11,21 +11,14 @@ description: >-
 url: "https://www.trigosystem.com"
 
 # -----------------------------------------------------------
-# 關鍵修正 1：徹底關閉 RSS (必須放在最外層)
-# -----------------------------------------------------------
-rss: false
-
-# -----------------------------------------------------------
-# 關鍵修正 2：側邊欄 Contact (確保縮排正確)
+# 【側邊欄設定】只留 IG (Email已刪除)
 # -----------------------------------------------------------
 contact:
-  email: arthas@trigosystem.com
   instagram: trigosys
-  # twitter:
-  # github:
+  # 這裡什麼都不要加，沒有 rss，沒有 email
 
 # -----------------------------------------------------------
-# 關鍵修正 3：頁尾 Social (完整網址)
+# 【頁尾設定】
 # -----------------------------------------------------------
 social:
   name: Trigo System Engineering Limited
@@ -33,39 +26,18 @@ social:
   links:
     - https://www.instagram.com/trigosys
 
-# Site Verification
+# 其他必要設定 (保持預設，確保網站運作)
 webmaster_verifications:
   google:
   bing:
-  alexa:
-  yandex:
-  baidu:
-  facebook:
-
-# Analytics
 analytics:
   google:
     id:
-  goatcounter:
-    id:
-  umami:
-    id:
-    domain:
-  matomo:
-    id:
-    domain:
-  cloudflare:
-    id:
-  fathom:
-    id:
-
-# System Settings
 theme_mode: # [light | dark]
 cdn:
 avatar: /assets/avatar.png
 social_preview_image:
 toc: true
-
 comments:
   active: giscus
   giscus:
@@ -78,22 +50,17 @@ comments:
     reactions_enabled: 1
     input_position: bottom
     lang: zh-TW
-
 assets:
   self_host:
     enabled:
     env:
-
 pwa:
   enabled: false
   cache:
     enabled: true
     deny_paths:
-
 paginate: 10
 baseurl: ""
-
-# Jekyll Core Settings (Do not touch)
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
@@ -104,12 +71,10 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-
 collections:
   tabs:
     output: true
     sort_by: order
-
 defaults:
   - scope:
       path: ""
@@ -129,10 +94,8 @@ defaults:
     values:
       layout: page
       permalink: /:title/
-
 sass:
   style: compressed
-
 compress_html:
   clippings: all
   comments: all
@@ -141,7 +104,6 @@ compress_html:
   blanklines: false
   ignore:
     envs: [development]
-
 exclude:
   - "*.gem"
   - "*.gemspec"
@@ -152,7 +114,6 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
-
 jekyll-archives:
   enabled: [categories, tags]
   layouts:

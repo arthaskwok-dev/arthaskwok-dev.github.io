@@ -11,7 +11,7 @@ image:
 > **Case Study 01:** 當高亮度的 LED 顯示屏介入傳統舞台時，燈光設計師如何解決「光比失衡」的物理難題？
 
 ## 1. 專案課題：有限空間內的「光學博弈」
-
+ 
 **地點：** 蘇淅公學禮堂 (Kiangsu-Chekiang College Hall)
 **場景：** 大灣區音樂節 (GBA Music Festival)
 

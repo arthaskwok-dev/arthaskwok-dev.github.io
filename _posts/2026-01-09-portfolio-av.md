@@ -1,6 +1,6 @@
 ---
 title: 【案例】商業中心 - P2.5 LED Wall 與音響整合
-date: 2026-01-09 15:00:00 +0800
+date: 2026-01-09 00:00:00 +0800
 categories: [Portfolio, Audio Visual]
 tags: [led wall, novastar, pa system]
 image:

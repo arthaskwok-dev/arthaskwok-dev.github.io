@@ -33,9 +33,16 @@ url: "https://www.trigosystem.com"
 #   username: twitter_username
 
 social:
+ # -----------------------------------------------------------------------------
+# Social (頁尾 - 填完整網址)
+# -----------------------------------------------------------------------------
+social:
   name: Trigo System Engineering Limited
   email: arthas@trigosystem.com
-  instagram: trigosys
+  links:
+    # 這裡必須有 https://
+    - https://www.instagram.com/trigosys
+    # 下面不要留任何單獨的 "-" 符號，不用的就整行刪掉
   rss: false
     # - https://github.com/arthaskwok-dev  <-- 已隱藏
 

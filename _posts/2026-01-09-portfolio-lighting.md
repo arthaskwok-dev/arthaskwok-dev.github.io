@@ -1,6 +1,6 @@
 ---
 title: 【案例】聖保羅書院 - 禮堂燈光系統升級
-date: 2026-01-09 14:00:00 +0800
+date: 2026-01-09 00:00:00 +0800
 categories: [Portfolio, Stage Lighting]
 tags: [grandma3, moving head, school hall]
 image:

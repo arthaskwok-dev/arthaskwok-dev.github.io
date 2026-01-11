@@ -1,8 +1,8 @@
 ---
-title: 第一章：物理與謊言 (The Physics & The Lies)
-date: 2026-01-06 14:00:00 +0800
-categories: [Trigo Book, Engineering]
-tags: [pwm, dmx, safety, lighting]
+title: 【光學筆記】CRI 與 TLCI 的謊言：我們眼中的色彩還原
+date: 2026-01-07 10:00:00 +0800
+categories: [Trigo Book, Color Science] # 修改這裡：讓分類更專業
+tags: [Spectrum, CRI, TLCI, Physics]
 comments: true   <-- 加入這一行，強制開啟！
 ---
 

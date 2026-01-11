@@ -5,8 +5,10 @@ timezone: Asia/Hong_Kong
 
 # 網站資訊
 title: Trigo System Engineering Limited
-tagline: Light & Logic
-description: 香港專業舞台燈光音響工程與系統設計
+tagline: 香港專業舞台燈光、視聽系統及工程解決方案 (Stage Lighting & AV Specialist)
+description: >-
+  Trigo System 提供專業的學校禮堂舞台燈光 (Stage Lighting)、視聽系統 (Audio Visual)、
+  電子白板及 CCTV 中央廣播及音響工程服務。專注於香港教育界與商業機構的系統整合方案。
 url: "https://www.trigosystem.com"
 
 # -----------------------------------------------------------

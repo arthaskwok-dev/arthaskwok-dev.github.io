@@ -6,7 +6,7 @@ tags: [Track Record, Client List, History]
 pin: true
 image:
   path: /assets/img/engineering-cover2.jpg
-  alt: 舞台機械負重測試工程紀實 
+  alt: 舞台機械負重測試工程紀實   
 ---
 
 > **Track Record:** Trigo System Engineering 致力於為學術與商業機構提供標準化的視聽 (AV)、燈光與工程解決方案。以下為近五年交付的中標項目選錄。

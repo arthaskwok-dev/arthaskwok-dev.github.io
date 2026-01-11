@@ -1,8 +1,8 @@
 ---
-title: 【Trigo Book】光與邏輯：為什麼你的燈光會亂閃？談 110Ω 的物理學
-date: 2026-01-08 22:00:00 +0800
-categories: [Trigo Book, Industry Knowledge]
-tags: [DMX512, Engineering, Logic, Physics]
+title: 【技術專欄】為什麼 DMX 線路需要終端電阻？從阻抗匹配談起
+date: 2026-01-09 10:00:00 +0800
+categories: [Trigo Book, System Logic]  # 修改這裡：不再用 Engineering
+tags: [DMX512, Signal, Troubleshooting, Theory]
 description: 外觀一樣的 XLR 接頭，為什麼不能混用？從特性阻抗 (Impedance) 拆解舞台燈光系統不穩定的元兇。
 ---
 

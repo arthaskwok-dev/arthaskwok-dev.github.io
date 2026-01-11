@@ -1,8 +1,8 @@
 ---
-title: 第二章：色彩科學與感知 (The Science of Color)
+title: 【光學筆記】CRI 與 TLCI 的謊言：我們眼中的色彩還原
 date: 2026-01-07 10:00:00 +0800
-categories: [Trigo Book, Color Lab]
-tags: [color, cie, spectrum, r15]
+categories: [Trigo Book, Color Science] # 修改這裡：讓分類更專業
+tags: [Spectrum, CRI, TLCI, Physics]
 ---
 
 ## 引言：RGB 的騙局

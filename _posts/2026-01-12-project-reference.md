@@ -1,6 +1,6 @@
 ---
 title: 【工程實績】Trigo System 歷年項目總表 (Reference List)
-date: 2026-01-12 06:00:00 +0800
+date: 2026-01-12 05:00:00 +0800
 categories: [Portfolio, Engineering]
 tags: [Track Record, Client List, History]
 pin: true

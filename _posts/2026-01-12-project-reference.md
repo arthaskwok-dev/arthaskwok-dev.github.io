@@ -5,7 +5,7 @@ categories: [Portfolio, Engineering]
 tags: [Track Record, Client List, History]
 pin: true
 image:
-  path: /assets/img/engineering-cover.jpg
+  path: /assets/img/engineering-cover2.jpg
   alt: 工程實績總表封面
 ---
 

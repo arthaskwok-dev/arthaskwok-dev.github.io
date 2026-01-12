@@ -1,9 +1,8 @@
 ---
-title: 【光學筆記】CRI 與 TLCI 的謊言：我們眼中的色彩還原
-date: 2026-01-07 10:00:00 +0800
-categories: [Trigo Book, Color Science] # 修改這裡：讓分類更專業
-tags: [Spectrum, CRI, TLCI, Physics]
-comments: true   <-- 加入這一行，強制開啟！
+title: 【光與邏輯】第一章：物理不會說謊，但眼睛會
+date: 2026-01-06 10:00:00 +0800
+categories: [Trigo Book, Think Tank] # 修改這裡
+tags: [Philosophy, Stage Design, Concept]
 ---
 
 ## 引言：90% 的工程問題，其實都是物理問題

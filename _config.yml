@@ -38,7 +38,7 @@ webmaster_verifications:
   facebook:
 theme_mode: light
 cdn:
-avatar: /assets/avatar.png
+avatar: /assets/img/trigo-logo.png
 toc: true
 comments:
   active: giscus

@@ -1,7 +1,7 @@
 ---
 title: 【Showreel】Trigo System 舞台燈光編程作品集
 date: 2026-01-12 14:00:00 +0800
-categories: [Portfolio, Stage Lighting]
+categories: [Portfolio, Showreel]
 tags: [Showreel, Demo, Moving Head, Beam]
 image:
   path: /assets/img/engineering-cover.jpg # 這裡建議換成一張很炫的燈光縮圖

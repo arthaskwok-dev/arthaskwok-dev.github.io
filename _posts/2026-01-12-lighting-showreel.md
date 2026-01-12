@@ -3,9 +3,7 @@ title: 【Showreel】Trigo System 舞台燈光編程作品集 (Lighting Design D
 date: 2026-01-12 13:00:00 +0800
 categories: [Portfolio, Showreel]   # ✅ 修改重點：這裡變成了 Showreel
 tags: [Showreel, Video, Moving Head, Programming]
-image:
-  path: /assets/img/khn-cover.jpg  # 記得之後換成你的燈光帥照
-  alt: 燈光秀封面
+
 ---
 
 > **Lighting Design:** 光不僅是照明，更是舞台的靈魂。Trigo System 運用專業控台 (DMX Console) 與燈光設計邏輯，為不同場景打造獨一無二的視覺氛圍。

@@ -1,5 +1,5 @@
 ---
-title: 【Showreel】Trigo System 舞台燈光編程作品集 (Lighting Design Demo)
+title: 【Showreel】Trigo System 舞台燈光編程作品集 (Lighting Design Demo) 
 date: 2026-01-12 13:00:00 +0800
 categories: [Portfolio, Showreel]   # ✅ 修改重點：這裡變成了 Showreel
 tags: [Showreel, Video, Moving Head, Programming]

@@ -36,7 +36,7 @@ webmaster_verifications:
   yandex:
   baidu:
   facebook:
-theme_mode: light
+theme_mode: light 
 cdn:
 avatar: /assets/img/trigo-logo.png
 toc: true

@@ -1,6 +1,6 @@
 ---
 title: 【燈光工程】寧波公學 (Ning Po College)：誤以為是外租器材的演唱會級視覺
-date: 2026-01-12 16:00:00 +0800
+date: 2026-01-12 12:00:00 +0800
 categories: [Portfolio, Stage Lighting]
 tags: [Ning Po College, Concert Lighting, LED Upgrade, Transformation]
 image:

@@ -4,7 +4,7 @@ date: 2026-01-12 12:00:00 +0800
 categories: [Portfolio, Stage Lighting]
 tags: [Ning Po College, Concert Lighting, LED Upgrade, Transformation]
 image:
-  path: /assets/img/ningpo-singer.jpg
+  path: /assets/img/ningpo-singer2.jpg
   alt: 寧波公學禮堂演唱會效果
 ---
 
@@ -38,5 +38,5 @@ image:
 
 這是對我們工程團隊最大的讚美。事實上，這不是租來的，這是 Trigo System 為學校打造的永久性資產，讓每一場校園活動都能擁有演唱會級別的張力。
 
-![歌手演出效果](/assets/img/ningpo-singer.jpg)
+![歌手演出效果](/assets/img/ningpo-singer2.jpg)
 *(圖：歌手在寧波公學禮堂演出實況，展現了與以往截然不同的視覺層次)*

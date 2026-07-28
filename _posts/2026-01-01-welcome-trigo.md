@@ -1,14 +1,13 @@
 ---
 title: 光學與邏輯的交匯點：歡迎來到 Trigo System
-# ... (中間省略)
+date: 2026-01-01 10:00:00 +0800
+categories: [Company, Introduction]
+tags: [trigo system, stage lighting, audio visual]
+description: 認識 Trigo System 的舞台燈光、視聽系統與工程理念。
 pin: true
 image:
   path: /assets/img/rhine_welcome.jpg
-  lqip: data:image/webp;base64,.... (如果有這行就留著)
   alt: Rhine 舞台展示
-  # 👇 加入下面這行設定！
-  width: 1200   
-  height: 630   
 ---
 
 ## 「很多工程問題，其實都是物理問題。」
